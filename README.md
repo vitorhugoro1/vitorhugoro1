@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Vitor, I current work on [upLexis Tecnologia](http://uplexis.com.br/) with Developer Team Leader.
+
+- [LinkedIn](https://www.linkedin.com/in/vitorhugoro1/)
+- [Twitter](https://twitter.com/vitorhugoro1)
+
 <!--
 **vitorhugoro1/vitorhugoro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

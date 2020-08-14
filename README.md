@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vitor, I current work on [upLexis Tecnologia](http://uplexis.com.br/) with Developer Team Leader.
+My name is Vitor, I current working on [upLexis Tecnologia](http://uplexis.com.br/) with Developer Team Leader.
 
 - [LinkedIn](https://www.linkedin.com/in/vitorhugoro1/)
 - [Twitter](https://twitter.com/vitorhugoro1)

@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi, I'm Vitor 👋
 
-My name is Vitor, I current working on [upLexis Tecnologia](http://uplexis.com.br/) with Developer Team Leader.
+- Developer Team Leader at [upLexis Tecnologia](http://uplexis.com.br/)
+- Software Engineer at [Mazze](https://mazze.gg/)
+
+![Vitor's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugoro1&show_icons=true&layout=compact&theme=onedark)
 
 - [LinkedIn](https://www.linkedin.com/in/vitorhugoro1/)
 - [Twitter](https://twitter.com/vitorhugoro1)

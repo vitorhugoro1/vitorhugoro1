@@ -1,7 +1,6 @@
 ### Hi, I'm Vitor 👋
 
 - Developer Team Leader at [upLexis Tecnologia](http://uplexis.com.br/)
-- Software Engineer at [Mazze](https://mazze.gg/)
 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/vitorhugoro1/)

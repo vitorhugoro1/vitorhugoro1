@@ -1,6 +1,6 @@
 ### Hi, I'm Vitor 👋
 
-- Developer Team Leader at [upLexis Tecnologia](http://uplexis.com.br/)
+- Senior Software Developer at [Fretebras](https://www.fretebras.com.br/)
 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/vitorhugoro1/)

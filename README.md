@@ -1,6 +1,6 @@
 ### Hi, I'm Vitor 👋
 
-- Senior Software Developer at [Fretebras](https://www.fretebras.com.br/)
+- Senior Software Developer at [iFood](http://ifood.com.br)
 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/vitorhugoro1/)
